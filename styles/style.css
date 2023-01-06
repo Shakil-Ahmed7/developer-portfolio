@@ -12,7 +12,7 @@
     font-weight: 700;
     font-size: 20px;
     border: 0;
-    padding: 18px 35px;
+    padding: 12px 25px;
     height: 64px;
     background: #FD6E0A;
     border-radius: 5px;
@@ -85,7 +85,7 @@ nav li {
     font-weight: 700;
     font-size: 20px;
     color: #FD6E0A;
-    padding: 18px 35px;
+    padding: 6px 20px;
     height: 64px;
     margin-left: 20px;
 }
